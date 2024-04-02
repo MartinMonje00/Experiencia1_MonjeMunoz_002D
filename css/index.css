@@ -8,8 +8,9 @@
 }
 
 .c-img2 {
-    height: 110%;
+    height: 150%;
     object-fit: cover;
+    filter: brightness(0.98);
 }
 
 .icono{
