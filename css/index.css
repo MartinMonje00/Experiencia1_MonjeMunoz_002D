@@ -2,7 +2,24 @@
     height: 480px;
 }
 
+.c-img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.c-img2 {
+    height: 110%;
+    object-fit: cover;
+}
+
 .icono{
-    font-size: 23px;
-    color: black;
+    font-size: 22px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.parrafo {
+    text-align: center;
 }
